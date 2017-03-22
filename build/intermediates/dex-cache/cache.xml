@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/tamle/Downloads/CurrencyConverter-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5bce8960d6337bf83cbe70eb9b956f4b719b32cc">
+        <dex dex="/home/tamle/Downloads/CurrencyConverter-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a9b0683d3ec153f95c648c1575e80afcbbd39460/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tamle/Downloads/CurrencyConverter-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/tamle/Downloads/CurrencyConverter-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1e20ef971c8c303acee971de2a0e6d778cecc488/classes.dex" />
+    </item>
+
+</items>
